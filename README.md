@@ -1,6 +1,3 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact)](https://github.com/ritalinux/ritalinux)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact&theme=dark"
