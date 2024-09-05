@@ -1,13 +1,13 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact&theme=dark&langs_count=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact&langs_count=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritalinux&layout=compact&langs_count=20" />
 </picture>
 
 <!--
